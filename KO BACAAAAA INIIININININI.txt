@@ -1,0 +1,13 @@
+>>Awal
+1. Landing Page (Cek Lulus atau Tidak)
+2. Pengumuman dan Informasi (Ala Ala SIMBELMAWA)
+
+>>Operator
+1. Inputkan Pengumuman dan Informasi
+2. Inputkan data siswa pendaftar
+3. CRUD data siswa
+
+>>Admin
+1. isikan nilai
+2. View dan Delete data siswa
+3. CRUD nilai
