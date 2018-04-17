@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
+//halaman awal
   <head>
 
     <meta charset="utf-8">
